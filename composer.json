@@ -1,0 +1,13 @@
+{
+    "name": "receive/projects-php",
+    "description": "General PHP Projects Repository",
+    "require": {
+        "vlucas/phpdotenv": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Michael",
+            "email": "dev@michaelv.co"
+        }
+    ]
+}
