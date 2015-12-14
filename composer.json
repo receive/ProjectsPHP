@@ -2,7 +2,8 @@
     "name": "receive/projects-php",
     "description": "General PHP Projects Repository",
     "require": {
-        "vlucas/phpdotenv": "^2.1"
+        "vlucas/phpdotenv": "^2.1",
+        "cmfcmf/openweathermap-php-api": "^2.0"
     },
     "authors": [
         {
